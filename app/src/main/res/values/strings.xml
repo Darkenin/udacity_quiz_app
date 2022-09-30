@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">udacity_quiz_app</string>
+    <string name="question_text">Question</string>
+    <string name="toast">some answers are wrong</string>
+    <string name="radiogroup">Which has better garbage collection</string>
+    <string name="cind">Cinderella was the first Disney princess</string>
+    <string name="k">K is worth four points in Scrabble</string>
+    <string name="queen">Day</string>
+    <string name="queen2">Queen Elizabeth died 2022, September: %s</string>
+    <string name="queen3">Queen Elizabeth died 2022, Sept</string>
+    <string name="blackbox">The black box in a plane is black %b</string>
+    <string name="blackbox2">The black box in a plane is black</string>
+    <string name="darkenin">What is your twitter handle</string>
+    <string name="amp">Select all Amphibians%s</string>
+    <string name="amp2">Select all Amphibians</string>
+    <string name="next">SEND</string>
+    <string name="prev">CHECK ANSWER</string>
+    <string name="type">"@"answer: %s</string>
+    <string name="nano">What is a nanodegree program: %s</string>
+    <string name="nano2">What is a nanodegree program</string>
+    <string name="radiobtn">Course Selected: %s</string>
+    <string name="scoreAdd">+1</string>
+    <string name="gg">right</string>
+    <string name="score">0</string>
+    <string name="player_score">Your score is %f</string>
+    <string name="kotlin">Kotlin Programming</string>
+    <string name="java">Java Programming</string>
+    <string name="hippo">Hippopotamus </string>
+    <string name="mud">Mud skippers</string>
+    <string name="otter">Otter</string>
+</resources>
